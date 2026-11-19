@@ -1,0 +1,2 @@
+# soilsim-fertilizers
+Симулятор Добрива
